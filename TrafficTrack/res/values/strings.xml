@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrafficTrack</string>
+
+    <!-- Parametri Webservice -->
+    <!--
+ec2-46-51-205-106.eu-west-1.compute.amazonaws.com 
+192.168.1.102
+    -->
+    <string name="webservice_pointer">http://31.27.101.76:8080/traffic/webresources/webservice.position/</string>
+   
+
+    <!-- Stringhe MainActivity -->
+    <string name="action_settings">Impostazioni</string>
+
+    <!-- Map Activity -->
+    <string name="title_activity_map">TrafficTrack</string>
+
+    <!-- Menu delle mappe -->
+    <string name="refresh_map">Ricarica Mappa</string>
+    <string name="settings">Impostazioni</string>
+
+
+    <!-- lista percorsi preferiti -->
+    <string name="title_activity_about_us">Informazioni su...</string>
+
+</resources>
