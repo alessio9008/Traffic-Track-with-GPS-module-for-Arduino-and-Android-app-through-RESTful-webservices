@@ -21,3 +21,4 @@ Map:
 	•	Map Mode (Map, Earth, Hybrid)
 
 This project was developed by Alessio Oglialoro, Salvatore Consolato Meli and Daniele Saitta.
+ 
